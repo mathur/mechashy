@@ -1,5 +1,6 @@
 [
   "hubot-diagnostics",
+  "hubot-flowdock-delete-message",
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-google-images",
